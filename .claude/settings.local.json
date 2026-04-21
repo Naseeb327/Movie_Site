@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.themoviedb.org)",
+      "Bash(del \"D:\\Movie Site\\movie-platform\\check_urls.ps1\" \"D:\\Movie Site\\movie-platform\\download_posters.ps1\" \"D:\\Movie Site\\movie-platform\\download_missing.ps1\" \"D:\\Movie Site\\movie-platform\\download_final.ps1\")"
+    ]
+  }
+}

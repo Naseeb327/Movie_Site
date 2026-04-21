@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "title": "Jawan",
+    "year": 2023,
+    "category": "bollywood",
+    "genre": ["Action", "Thriller"],
+    "quality": "1080p",
+    "poster": "/posters/jawan.jpg",
+    "rating": 7.1,
+    "description": "A high-octane action thriller that outlines the emotional journey of a man who is set to rectify the wrongs in society.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "400MB", "url": "https://example.com/jawan-480p" },
+      { "quality": "720p", "size": "900MB", "url": "https://example.com/jawan-720p" },
+      { "quality": "1080p", "size": "2.1GB", "url": "https://example.com/jawan-1080p" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Pathaan",
+    "year": 2023,
+    "category": "bollywood",
+    "genre": ["Action", "Thriller"],
+    "quality": "1080p",
+    "poster": "/posters/pathaan.jpg",
+    "rating": 5.9,
+    "description": "An Indian spy takes on the leader of a group of mercenaries who have nefarious plans to target his homeland.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "350MB", "url": "https://example.com/pathaan-480p" },
+      { "quality": "720p", "size": "850MB", "url": "https://example.com/pathaan-720p" },
+      { "quality": "1080p", "size": "1.9GB", "url": "https://example.com/pathaan-1080p" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Animal",
+    "year": 2023,
+    "category": "bollywood",
+    "genre": ["Action", "Crime", "Drama"],
+    "quality": "1080p",
+    "poster": "/posters/animal.jpg",
+    "rating": 6.2,
+    "description": "A son undergoes a remarkable transformation as the bond with his father begins to fracture, and he becomes consumed by a quest for vengeance.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "500MB", "url": "https://example.com/animal-480p" },
+      { "quality": "720p", "size": "1.2GB", "url": "https://example.com/animal-720p" },
+      { "quality": "1080p", "size": "2.8GB", "url": "https://example.com/animal-1080p" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Dunki",
+    "year": 2023,
+    "category": "bollywood",
+    "genre": ["Comedy", "Drama"],
+    "quality": "1080p",
+    "poster": "/posters/dunki.jpg",
+    "rating": 6.0,
+    "description": "Four friends from a village in Punjab share a common dream to go to England. Their journey of illegal immigration is filled with challenges.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "400MB", "url": "https://example.com/dunki-480p" },
+      { "quality": "720p", "size": "950MB", "url": "https://example.com/dunki-720p" },
+      { "quality": "1080p", "size": "2.2GB", "url": "https://example.com/dunki-1080p" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Tiger 3",
+    "year": 2023,
+    "category": "bollywood",
+    "genre": ["Action", "Thriller"],
+    "quality": "1080p",
+    "poster": "/posters/tiger3.jpg",
+    "rating": 5.5,
+    "description": "Tiger and Zoya are back together against an evil force threatening not just their nation but also their family.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "380MB", "url": "https://example.com/tiger3-480p" },
+      { "quality": "720p", "size": "880MB", "url": "https://example.com/tiger3-720p" },
+      { "quality": "1080p", "size": "2.0GB", "url": "https://example.com/tiger3-1080p" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Oppenheimer",
+    "year": 2023,
+    "category": "hollywood",
+    "genre": ["Biography", "Drama", "History"],
+    "quality": "1080p",
+    "poster": "/posters/oppenheimer.jpg",
+    "rating": 8.3,
+    "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "600MB", "url": "https://example.com/oppenheimer-480p" },
+      { "quality": "720p", "size": "1.4GB", "url": "https://example.com/oppenheimer-720p" },
+      { "quality": "1080p", "size": "3.2GB", "url": "https://example.com/oppenheimer-1080p" }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Barbie",
+    "year": 2023,
+    "category": "hollywood",
+    "genre": ["Adventure", "Comedy", "Fantasy"],
+    "quality": "1080p",
+    "poster": "/posters/barbie.jpg",
+    "rating": 6.8,
+    "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "350MB", "url": "https://example.com/barbie-480p" },
+      { "quality": "720p", "size": "800MB", "url": "https://example.com/barbie-720p" },
+      { "quality": "1080p", "size": "1.8GB", "url": "https://example.com/barbie-1080p" }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "The Batman",
+    "year": 2022,
+    "category": "hollywood",
+    "genre": ["Action", "Crime", "Drama"],
+    "quality": "1080p",
+    "poster": "/posters/batman.jpg",
+    "rating": 7.8,
+    "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "500MB", "url": "https://example.com/batman-480p" },
+      { "quality": "720p", "size": "1.1GB", "url": "https://example.com/batman-720p" },
+      { "quality": "1080p", "size": "2.5GB", "url": "https://example.com/batman-1080p" }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Avatar: The Way of Water",
+    "year": 2022,
+    "category": "hollywood",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "quality": "1080p",
+    "poster": "/posters/avatar2.jpg",
+    "rating": 7.5,
+    "description": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "550MB", "url": "https://example.com/avatar2-480p" },
+      { "quality": "720p", "size": "1.3GB", "url": "https://example.com/avatar2-720p" },
+      { "quality": "1080p", "size": "3.0GB", "url": "https://example.com/avatar2-1080p" }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "John Wick: Chapter 4",
+    "year": 2023,
+    "category": "hollywood",
+    "genre": ["Action", "Crime", "Thriller"],
+    "quality": "1080p",
+    "poster": "/posters/johnwick4.jpg",
+    "rating": 7.6,
+    "description": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "480MB", "url": "https://example.com/johnwick4-480p" },
+      { "quality": "720p", "size": "1.1GB", "url": "https://example.com/johnwick4-720p" },
+      { "quality": "1080p", "size": "2.6GB", "url": "https://example.com/johnwick4-1080p" }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Fast X",
+    "year": 2023,
+    "category": "dual-audio",
+    "genre": ["Action", "Adventure", "Crime"],
+    "quality": "1080p",
+    "poster": "/posters/fastx.jpg",
+    "rating": 5.7,
+    "description": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "450MB", "url": "https://example.com/fastx-480p" },
+      { "quality": "720p", "size": "1.0GB", "url": "https://example.com/fastx-720p" },
+      { "quality": "1080p", "size": "2.3GB", "url": "https://example.com/fastx-1080p" }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "category": "dual-audio",
+    "genre": ["Animation", "Action", "Adventure"],
+    "quality": "1080p",
+    "poster": "/posters/spiderverse2.jpg",
+    "rating": 8.6,
+    "description": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "400MB", "url": "https://example.com/spiderverse2-480p" },
+      { "quality": "720p", "size": "950MB", "url": "https://example.com/spiderverse2-720p" },
+      { "quality": "1080p", "size": "2.2GB", "url": "https://example.com/spiderverse2-1080p" }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Guardians of the Galaxy Vol. 3",
+    "year": 2023,
+    "category": "dual-audio",
+    "genre": ["Action", "Adventure", "Comedy"],
+    "quality": "1080p",
+    "poster": "/posters/gotg3.jpg",
+    "rating": 7.9,
+    "description": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "420MB", "url": "https://example.com/gotg3-480p" },
+      { "quality": "720p", "size": "980MB", "url": "https://example.com/gotg3-720p" },
+      { "quality": "1080p", "size": "2.3GB", "url": "https://example.com/gotg3-1080p" }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Transformers: Rise of the Beasts",
+    "year": 2023,
+    "category": "dual-audio",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "quality": "1080p",
+    "poster": "/posters/transformers.jpg",
+    "rating": 6.0,
+    "description": "During the 90s, a new faction of Transformers joins the battle between Autobots and Decepticons.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "430MB", "url": "https://example.com/transformers-480p" },
+      { "quality": "720p", "size": "1.0GB", "url": "https://example.com/transformers-720p" },
+      { "quality": "1080p", "size": "2.4GB", "url": "https://example.com/transformers-1080p" }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Mission: Impossible - Dead Reckoning",
+    "year": 2023,
+    "category": "dual-audio",
+    "genre": ["Action", "Adventure", "Thriller"],
+    "quality": "1080p",
+    "poster": "/posters/mi7.jpg",
+    "rating": 7.7,
+    "description": "Ethan Hunt and his IMF team must track down a dangerous weapon before it falls into the wrong hands.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "480MB", "url": "https://example.com/mi7-480p" },
+      { "quality": "720p", "size": "1.1GB", "url": "https://example.com/mi7-720p" },
+      { "quality": "1080p", "size": "2.6GB", "url": "https://example.com/mi7-1080p" }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "RRR",
+    "year": 2022,
+    "category": "south-indian",
+    "genre": ["Action", "Drama"],
+    "quality": "1080p",
+    "poster": "/posters/rrr.jpg",
+    "rating": 7.8,
+    "description": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "550MB", "url": "https://example.com/rrr-480p" },
+      { "quality": "720p", "size": "1.3GB", "url": "https://example.com/rrr-720p" },
+      { "quality": "1080p", "size": "3.0GB", "url": "https://example.com/rrr-1080p" }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "KGF Chapter 2",
+    "year": 2022,
+    "category": "south-indian",
+    "genre": ["Action", "Crime", "Drama"],
+    "quality": "1080p",
+    "poster": "/posters/kgf2.jpg",
+    "rating": 8.3,
+    "description": "The blood-soaked land of Kolar Gold Fields has a new overlord now - Rocky, whose name strikes fear in the heart of his foes.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "500MB", "url": "https://example.com/kgf2-480p" },
+      { "quality": "720p", "size": "1.2GB", "url": "https://example.com/kgf2-720p" },
+      { "quality": "1080p", "size": "2.8GB", "url": "https://example.com/kgf2-1080p" }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Pushpa: The Rise",
+    "year": 2021,
+    "category": "south-indian",
+    "genre": ["Action", "Crime", "Drama"],
+    "quality": "1080p",
+    "poster": "/posters/pushpa.jpg",
+    "rating": 7.6,
+    "description": "A laborer rises through the ranks of a red sandalwood smuggling syndicate, making some technically powerful enemies.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "520MB", "url": "https://example.com/pushpa-480p" },
+      { "quality": "720p", "size": "1.2GB", "url": "https://example.com/pushpa-720p" },
+      { "quality": "1080p", "size": "2.9GB", "url": "https://example.com/pushpa-1080p" }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Salaar: Part 1",
+    "year": 2023,
+    "category": "south-indian",
+    "genre": ["Action", "Thriller"],
+    "quality": "1080p",
+    "poster": "/posters/salaar.jpg",
+    "rating": 6.4,
+    "description": "A gang leader tries to keep a promise made to his dying friend by saving his son's life.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "480MB", "url": "https://example.com/salaar-480p" },
+      { "quality": "720p", "size": "1.1GB", "url": "https://example.com/salaar-720p" },
+      { "quality": "1080p", "size": "2.6GB", "url": "https://example.com/salaar-1080p" }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Leo",
+    "year": 2023,
+    "category": "south-indian",
+    "genre": ["Action", "Crime", "Thriller"],
+    "quality": "1080p",
+    "poster": "/posters/leo.jpg",
+    "rating": 6.4,
+    "description": "A mild-mannered cafe owner in Kashmir fights back against a gang terrorizing his family.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "470MB", "url": "https://example.com/leo-480p" },
+      { "quality": "720p", "size": "1.1GB", "url": "https://example.com/leo-720p" },
+      { "quality": "1080p", "size": "2.5GB", "url": "https://example.com/leo-1080p" }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Money Heist",
+    "year": 2021,
+    "category": "web-series",
+    "genre": ["Action", "Crime", "Mystery"],
+    "quality": "1080p",
+    "poster": "/posters/moneyheist.jpg",
+    "rating": 8.2,
+    "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "300MB/ep", "url": "https://example.com/moneyheist-480p" },
+      { "quality": "720p", "size": "600MB/ep", "url": "https://example.com/moneyheist-720p" },
+      { "quality": "1080p", "size": "1.2GB/ep", "url": "https://example.com/moneyheist-1080p" }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Squid Game",
+    "year": 2021,
+    "category": "web-series",
+    "genre": ["Action", "Drama", "Mystery"],
+    "quality": "1080p",
+    "poster": "/posters/squidgame.jpg",
+    "rating": 8.0,
+    "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "280MB/ep", "url": "https://example.com/squidgame-480p" },
+      { "quality": "720p", "size": "550MB/ep", "url": "https://example.com/squidgame-720p" },
+      { "quality": "1080p", "size": "1.1GB/ep", "url": "https://example.com/squidgame-1080p" }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "The Witcher",
+    "year": 2023,
+    "category": "web-series",
+    "genre": ["Action", "Adventure", "Drama"],
+    "quality": "1080p",
+    "poster": "/posters/witcher.jpg",
+    "rating": 8.0,
+    "description": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "320MB/ep", "url": "https://example.com/witcher-480p" },
+      { "quality": "720p", "size": "650MB/ep", "url": "https://example.com/witcher-720p" },
+      { "quality": "1080p", "size": "1.3GB/ep", "url": "https://example.com/witcher-1080p" }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Wednesday",
+    "year": 2022,
+    "category": "web-series",
+    "genre": ["Comedy", "Crime", "Fantasy"],
+    "quality": "1080p",
+    "poster": "/posters/wednesday.jpg",
+    "rating": 8.1,
+    "description": "Follows Wednesday Addams' years as a student at Nevermore Academy, where she attempts to master her psychic abilities.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "290MB/ep", "url": "https://example.com/wednesday-480p" },
+      { "quality": "720p", "size": "580MB/ep", "url": "https://example.com/wednesday-720p" },
+      { "quality": "1080p", "size": "1.2GB/ep", "url": "https://example.com/wednesday-1080p" }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Stranger Things",
+    "year": 2022,
+    "category": "web-series",
+    "genre": ["Drama", "Fantasy", "Horror"],
+    "quality": "1080p",
+    "poster": "/posters/strangerthings.jpg",
+    "rating": 8.7,
+    "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments and supernatural forces.",
+    "downloadLinks": [
+      { "quality": "480p", "size": "350MB/ep", "url": "https://example.com/strangerthings-480p" },
+      { "quality": "720p", "size": "700MB/ep", "url": "https://example.com/strangerthings-720p" },
+      { "quality": "1080p", "size": "1.4GB/ep", "url": "https://example.com/strangerthings-1080p" }
+    ]
+  }
+]
