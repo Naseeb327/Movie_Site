@@ -8,16 +8,23 @@ jobs:
   build_app_with_cache_artifacts:
     runs-on: ubuntu-latest
 
+    concurrency:
+      group: deploy
+      cancel-in-progress: true
+
     steps:
       - name: checkout repo
         uses: actions/checkout@v6.0.2
+        
       - name: setup node js
         uses: actions/setup-node@v6.4.0
         with:
           node-version: v22.18.0
           cache: "npm"
+          
       - name: Install Dependencies
         run: npm install 
+        
       - name: build nextjs app
         run: npm run build
 
